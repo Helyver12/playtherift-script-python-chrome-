@@ -1,0 +1,35 @@
+{
+    "Conta2": {
+        "destinatario": "Hellboy",
+        "quantidade": 129300,
+        "saldo_antes": 129400,
+        "saldo_texto": "129,4k",
+        "valor_liquido": "109.905",
+        "status": "confirmed",
+        "atualizado_em": "2026-11-06T22:05:05",
+        "texto_confirmacao": "Confirmar · 129.300 ouro",
+        "valor_confirmacao": 129300
+    },
+    "Conta3": {
+        "destinatario": "Hellboy",
+        "quantidade": 104200,
+        "saldo_antes": 104300,
+        "saldo_texto": "104,3k",
+        "valor_liquido": "88.570",
+        "status": "confirmed",
+        "atualizado_em": "2026-11-06T22:05:09",
+        "texto_confirmacao": "Confirmar · 104.200 ouro",
+        "valor_confirmacao": 104200
+    },
+    "Conta4": {
+        "destinatario": "Hellboy",
+        "quantidade": 54300,
+        "saldo_antes": 54400,
+        "saldo_texto": "54,4k",
+        "valor_liquido": "46.155",
+        "status": "confirmed",
+        "atualizado_em": "2026-11-06T22:05:12",
+        "texto_confirmacao": "Confirmar · 54.300 ouro",
+        "valor_confirmacao": 54300
+    }
+}
